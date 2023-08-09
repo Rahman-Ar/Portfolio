@@ -1,0 +1,45 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Trebuchet MS';
+    color: #fff;
+    background: linear-gradient(#B18CFE, #001E57);
+}
+
+.container {
+    width: 360px;
+    margin: 60px auto;
+    text-align: center;
+}
+
+img {
+    height: 100px;
+    border-radius: 50px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+button {
+    width: 100%;
+    height: 48px;
+    border: none;
+    border-radius: 40px;
+    font-size: 18px;
+    color: darkblue;
+    background-color: #fff;
+    cursor: pointer;
+    margin-bottom: 16px;
+}
+
+a {
+    text-decoration: none;
+}
